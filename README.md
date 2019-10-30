@@ -14,6 +14,7 @@ The application makes use of
  - Factory Design Pattern to create objects of different types (for eg. Objects of different province tax classes - AlbertaTaxCalculator and OntarioTaxCalculator).
  - Dependency Inversion principle (D) from SOLID principles to inject dependency of ITaxCalculator in Pizza class.
  - Open closed principle (O) from SOLID principles to add new province and tax rules.
+ - Don't Repeat Yourself principle (DRY) i.e. a separate file of national tax (to add $0.05 to province tax)
 
 # Solution to requirements:
 1. Here, when our chain starts operating in BC and it requires tax calculation then we can simply create a class for tax calculation in BC that implements ITaxCalculator interface and we can override GetTotalAfterTax() method that will return price of pizza with tax + national tax.
