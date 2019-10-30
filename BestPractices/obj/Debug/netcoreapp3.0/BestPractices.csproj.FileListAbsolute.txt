@@ -1,0 +1,22 @@
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.exe
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.deps.json
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.runtimeconfig.json
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.runtimeconfig.dev.json
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.dll
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.pdb
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.csprojAssemblyReference.cache
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.dll
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\.NET C# Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.pdb
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.exe
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.deps.json
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.runtimeconfig.json
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.runtimeconfig.dev.json
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.dll
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\bin\Debug\netcoreapp3.0\BestPractices.pdb
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.csprojAssemblyReference.cache
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.AssemblyInfoInputs.cache
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.AssemblyInfo.cs
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.dll
+C:\Users\vaibh\Desktop\MEng. Soft. Engg\Workshop\BestPractices\obj\Debug\netcoreapp3.0\BestPractices.pdb
