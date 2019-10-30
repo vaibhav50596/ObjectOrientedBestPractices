@@ -10,7 +10,10 @@ All the code related to these requirements is in one class called Pizza. We know
 
 # Object Oriented Best Practices Description:
 This project demonstrates object oriented language's SOLID and DRY principles in C# using .NET Core application.
-The application makes use of Factory Design Pattern to create objects of different types (for eg. Objects of different province tax classes - AlbertaTaxCalculator and OntarioTaxCalculator) and Dependency Inversion (D) from SOLID principles to inject dependency of ITaxCalculator in Pizza class. 
+The application makes use of
+ - Factory Design Pattern to create objects of different types (for eg. Objects of different province tax classes - AlbertaTaxCalculator and OntarioTaxCalculator).
+ - Dependency Inversion principle (D) from SOLID principles to inject dependency of ITaxCalculator in Pizza class.
+ - Open closed principle (O) from SOLID principles to add new province and tax rules.
 
 # Solution to requirements:
 1. Here, when our chain starts operating in BC and it requires tax calculation then we can simply create a class for tax calculation in BC that implements ITaxCalculator interface and we can override GetTotalAfterTax() method that will return price of pizza with tax + national tax.
